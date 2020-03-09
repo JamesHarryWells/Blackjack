@@ -262,3 +262,4 @@ function showStatus() {
     changeBet.style.display = 'inline';
   }
 }
+
